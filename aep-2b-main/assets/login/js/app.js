@@ -1,0 +1,3 @@
+/* ESBOÇO DE FUNÇÕES:
+
+CRIAR VALIDADOR .*/
