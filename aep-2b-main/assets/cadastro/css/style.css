@@ -105,3 +105,114 @@ body {
   border-top-right-radius: 0.25rem;
   border-top-left-radius: 0.25rem;
 }
+
+@media (max-width: 576px) {
+
+  #razaosocial{
+    margin-top: 0px;
+  }
+
+  #password {
+    margin-top: 0px;
+  }
+
+  #cpnj {
+    margin-top: 8px;
+  }
+  
+  #endereco {
+    margin-top: 15px;
+  }
+  
+  #cep {
+    margin-top: 0px;
+    margin-bottom: 8px;
+  } 
+
+  .h3 {
+    color: #fff;
+  }
+
+  #email {
+    margin-top: 1px;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+  }
+
+  #pais {
+    margin-bottom: 5px;
+  }
+
+  #estado {
+    margin-top: 1px!important;
+  }
+  
+  #cidade {
+    margin-top: 8px!important;
+  }
+  
+  #telNo {
+    margin-top: 1px;
+  }
+  
+  #password {
+    margin-top: 8px!important;
+    border-top-right-radius: 0.25rem;
+    border-top-left-radius: 0.25rem;
+  }
+}
+
+@media (max-width: 767.98px){
+  #razaosocial{
+    margin-top: 0px;
+  }
+
+  #password {
+    margin-top: 0px;
+  }
+
+  #cpnj {
+    margin-top: 8px;
+  }
+  
+  #endereco {
+    margin-top: 15px;
+  }
+  
+  #cep {
+    margin-top: 0px;
+    margin-bottom: 8px;
+  } 
+
+  .h3 {
+    color: #fff;
+  }
+
+  #email {
+    margin-top: 1px;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+  }
+
+  #pais {
+    margin-bottom: 5px;
+  }
+
+  #estado {
+    margin-top: 1px!important;
+  }
+  
+  #cidade {
+    margin-top: 8px!important;
+  }
+  
+  #telNo {
+    margin-top: 1px;
+  }
+  
+  #password {
+    margin-top: 8px!important;
+    border-top-right-radius: 0.25rem;
+    border-top-left-radius: 0.25rem;
+  }
+}
