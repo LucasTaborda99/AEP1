@@ -70,6 +70,38 @@ body {
 #copyright {
   padding-top: 0em;
 }
+
 .h3 {
   color: #fff;
+}
+
+.form-control{
+  margin: 5px;
+}
+
+#email {
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+#pais {
+  margin: 5px;
+}
+
+#estado {
+  margin: 5px;
+}
+
+#cidade {
+  margin: 5px;
+}
+
+#telefone {
+  margin: 5px;
+}
+
+#password {
+  margin: 5px;
+  border-top-right-radius: 0.25rem;
+  border-top-left-radius: 0.25rem;
 }
