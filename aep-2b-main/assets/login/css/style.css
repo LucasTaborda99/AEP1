@@ -8,7 +8,7 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: rgb(19, 18, 18);;
+  background-color: rgb(19, 18, 18);
 }
 
 .bd-placeholder-img {
@@ -64,4 +64,12 @@ color: #fff;
 
 .lembrarSenha {
   color: #fff;
+}
+
+.form-control {
+  margin-top: 10px;
+}
+
+#password {
+  border-radius: 0.25rem;
 }
